@@ -1,0 +1,171 @@
+/* Your styles here */
+
+body {
+  background-color: #e9edee;
+}
+
+.bg-dark {
+  background-color: #222f3f;
+}
+
+.bg-light {
+  background-color: #364757;
+}
+
+header img {
+  width: 5%;
+  padding: 0.5em;
+}
+
+.container p {
+  display: inline-block;
+  padding: 0.5em;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1em;
+}
+
+.main-container {
+  padding: 2em;
+}
+
+main p {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #f26702;
+  color: white;
+  padding: 1em;
+  font-size: 1em;
+}
+
+.bg-image {
+  text-align: center;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  background-image: url(../images/bg-image.png);
+  margin-right: 2em;
+  margin-left: 2em;
+  background-size: 93%;
+  padding: 2em;
+}
+
+main article h1 {
+  font-weight: 700;
+  font-size: 2em;
+  margin-top: 1em;
+}
+
+main article h4 {
+  font-size: 0.8em;
+  margin-top: 1.5em;
+  margin-bottom: 0.5em;
+}
+
+h3 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1em;
+  font-weight: 600;
+  display: inline-block;
+}
+
+section div > h3 {
+  margin-left: 2em;
+}
+
+h5 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 0.8em;
+  color: #769da4;
+  display: inline-block;
+  font-weight: 800;
+  margin-left: 1em;
+}
+
+.bg-section {
+  background-color: #ffffff;
+}
+
+.allimage-container {
+  padding: 2em;
+  margin-left: 4em;
+}
+
+.image-container1 {
+  display: inline-block;
+  background-image: url(../images/img_1.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 380px;
+  height: 380px;
+  margin-right: 2em;
+  border-radius: 2em;
+}
+
+.image-container2 {
+  display: inline-block;
+  background-image: url(../images/img_2.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 380px;
+  height: 380px;
+  margin-right: 2em;
+  border-radius: 2em;
+}
+
+.image-container3 {
+  display: inline-block;
+  background-image: url(../images/img_3.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 380px;
+  height: 380px;
+  margin-right: 2em;
+  border-radius: 2em;
+}
+
+.image-container4 {
+  display: inline-block;
+  background-image: url(../images/img_4.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 380px;
+  height: 380px;
+  border-radius: 2em;
+}
+
+section > div {
+  padding: 2em;
+  margin: 2em;
+  background-color: #ffffff;
+}
+
+aside {
+  text-align: center;
+  padding-right: 2em;
+  padding-left: 2em;
+}
+
+aside img {
+  width: 100%;
+  padding-bottom: 1em;
+  padding-top: 1em;
+}
+
+footer {
+  padding: 2em;
+}
+
+footer p {
+  text-align: center;
+  padding: 1em;
+}
+
+footer img {
+  width: 10%;
+  padding: 2em;
+  margin-left: 44%;
+}
+
+footer a:visited {
+  color: white;
+}
